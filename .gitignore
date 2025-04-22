@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+#ignored files for the project
+
+dataset/Cifar10
+dataset/MNIST
